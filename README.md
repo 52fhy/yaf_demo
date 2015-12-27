@@ -15,7 +15,7 @@ http://www.01happy.com/php-yaf-ext-preface/
 http://www.php.net/manual/zh/book.yaf.php
 
 # 特点
-1、基于c语言开发；
+>1、基于c语言开发；
 2、以php扩展的形式安装(.so,.dll)
 3、没有封装数据库操作的ORM
 
